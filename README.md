@@ -6,7 +6,7 @@ This project aims to classify images into their respective categories using Tens
 
 ## Setup Instructions
 
-1. **Clone the Repository:**
+1. Data source found in the url below:**
    ```bash
    git clone https://www.tensorflow.org/api_docs/python/tf/keras/datasets/cifar10/load_data
    cd image-classification-tensorflow
