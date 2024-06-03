@@ -48,10 +48,10 @@ After training, the model was evaluated on the CIFAR-10 test dataset. The follow
 
 Training Accuracy: The accuracy achieved on the training dataset during the last epoch of training.
 Validation Accuracy: The accuracy achieved on the test dataset after training.
-The test accuracy of the baseline model was found to be approximately 11.16%. This indicates that the model's performance is just slightly better than random guessing (which would yield an accuracy of around 10% for a 10-class classification problem).
+The test accuracy of the baseline model was found to be approximately 111.6%. This indicates that the model's performance is just slightly better than random guessing (which would yield an accuracy of around 10% for a 10-class classification problem).
 
 Explanation of Results
-The supwer high  test accuracy suggests that the baseline model is not effectively learning the features required to distinguish between the different classes in the CIFAR-10 dataset. This is likely due to the relatively simple architecture and limited capacity of the model. To improve performance, more complex architectures or techniques such as data augmentation, regularization, and transfer learning with pre-trained models can be employed to avoid model over fitting.
+The super high  test accuracy suggests that the baseline model is not effectively learning the features required to distinguish between the different classes in the CIFAR-10 dataset. This is likely due to the relatively simple architecture and limited capacity of the model. To improve performance, more complex architectures or techniques such as data augmentation, regularization, and transfer learning with pre-trained models can be employed to avoid model over fitting.
 
 
 
