@@ -13,7 +13,7 @@ This project aims to classify images into their respective categories using Tens
 
 
 
-project/
+project structure
 │
 ├── app/
 │   ├── static/
